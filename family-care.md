@@ -1,3 +1,5 @@
+## Summit Family Care
+
 GBMF is pleased to offer family care support of up to $75 per day ($300 maximum) to attendees. The intention of these funds is to cover additional care for family members outside of regularly scheduled work hours and for the time required for travel to the workshop (e.g. evening or extended day care). You will not be required to provide receipts or otherwise substantiate the actual amount of costs that you incur. You should consult your tax advisor to determine the appropriate tax treatment of any payments received.
 
 ### Reimbursement
