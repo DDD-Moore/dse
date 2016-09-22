@@ -1,6 +1,6 @@
 # Data Science Environments Information and Documents
 
-Repository for files and information related to the Moore-Sloan Data Science Environments 
+Repository for files and information related to the [Moore-Sloan Data Science Environments](http://msdse.org)
 
 ## Pages:
 
