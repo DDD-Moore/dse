@@ -4,7 +4,7 @@ All attendees at are required to agree with the following code of conduct. Organ
 
 **Need Help?**
 
-Email us at ddd@moore.org, call 650-597-DATA, make an [anonymous report](http://goo.gl/forms/nLtLzDqnkP), or find us at the meeting. 
+Email us at msdse.DataScienceSummit@gmail.com, call 650-597-DATA, make an [anonymous report](https://goo.gl/forms/ExbjjjHJdQKxpSoI3), or find us at the meeting. 
 
 ### The Quick Version
 The meeting organizers are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any meeting venue, including talks, workshops, social events, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the meeting at the discretion of the organisers.
@@ -17,13 +17,13 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the meeting.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a DDD representative immediately. You can make a report in the following ways:
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an MSDSE organizer immediately. You can also make a report in the following ways:
 
-- Email: ddd@moore.org 
+- Email: msdse.datasciencesummit@gmail.com 
 - Phone: 650-597-3282 (650-597-DATA)
-- Anonymously via this reporting form: [goo.gl/forms/nLtLzDqnkP](http://goo.gl/forms/nLtLzDqnkP)
+- Anonymously via this reporting form: [goo.gl/forms/nLtLzDqnkP](https://goo.gl/forms/ExbjjjHJdQKxpSoI3)
 
-DDD representatives will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the symposium. We value your attendance.
+MSDSE organizers will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the symposium. We value your attendance.
 
 We expect participants to follow these rules at all meeting venues and meeting-related social events.
 
