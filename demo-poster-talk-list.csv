@@ -1,14 +1,14 @@
 Last name,First name,Title,Format
 Abdur Rehman,Nabeel,Using High-resolution Data to Understand Local Disease Transmission Patterns,Poster
 Adams,Nick,AI Requires Social Scientists and Crowds,Talk
-Bik,Holly,"Phinch: An interactive, exploratory data visualization framework for –Omic datasets",Talk
+Bik,Holly,Phinch: An interactive, exploratory data visualization framework for –Omic datasets,Talk
 Brown,C. Titus,Advanced training and collaboration hackathons,Poster
 Brunner,Robert,Data Science at Illinois,Poster
 Goodman,Alyssa,Linked-View Visualization of High-Dimensional Data in glue,Talk
 Granger,Brian,Altair: Declarative Statistical Visualization in Python,Talk
 Hand,Joe,Data Publishing & Persistence with Decentralized Tools,Demo
 Himmelstein,Daniel,Hetionet,Poster
-Horta,Felipe,"Urban Canyons Framework: an exploration tool for large-scale ensemble spaces while the reconstruction, simulation and analysis of wind flow dynamics in urban environments over time",Poster
+Horta,Felipe,Urban Canyons Framework,Poster
 Juric,Mario,The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy,Talk
 Kingsford,Carl,The Goal of an Automated Algorithm Designer,Poster
 Kleese van Dam,Kerstin,Streaming Data Analysis for Highly Correlated Events,Talk
@@ -21,7 +21,7 @@ Reynolds,Kim,Evolutionary statistics and the organization of complex biological 
 Rich,Travis,DbDb,Demo
 Rocklin,Matthew,Visualizing Interactive computations with Dask,Demo
 Salganik,Matthew,Changing Publishing Bit by Bit: Introducing the Open Review Toolkit,Poster
-Siegel,Alexandra,"Socially Mediated Sectarianism: Violence, Elites, and Anti-Shia Hostility in Saudi Arabia",Poster
+Siegel,Alexandra,Socially Mediated Sectarianism: Violence, Elites, and Anti-Shia Hostility in Saudi Arabia,Poster
 Teytelman,Lenny,Capturing the knowledge that perishes because we do not publish it.,Demo
 Van Gordon,Mollie,Self-Organizing Mapping: Recognizing rainfall patterns in the Sahel,Poster
 Wang,Gao,Dynamic statistical comparisons made simple,Poster
