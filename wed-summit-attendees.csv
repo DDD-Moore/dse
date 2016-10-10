@@ -3,7 +3,6 @@ Abdur Rehman,Nabeel,New York University
 Adams,Nick,"University of California, Berkeley"
 Apte,Chid,IBM
 Athey,Brian,University of Michigan
-Balazinska,Magdalena,University of Washington
 Barbary,Kyle,"University of California, Berkeley"
 Barter,Rebecca,"University of California, Berkeley"
 Baru,Chaitanya,National Science Foundation
@@ -16,10 +15,10 @@ Bloom,Josh,"University of California, Berkeley"
 Boehnlein,Amber,Thomas Jefferson National Accelerator Facility
 Boldt,Judith,University of Texas Southwestern Medical Center
 Bonneau,Richard,New York University
-boyd,danah,Data & Society
 Borgs,Christian,Microsoft Research
 Borutta,Felix,"University of California, Berkeley"
 Bowman,Sam,New York University
+boyd,danah,Data & Society
 Brady,Henry,"University of California, Berkeley"
 Brock,Jeffrey,Brown University
 Brooks,Robin,University of Washington
@@ -40,11 +39,8 @@ Chirigati,Fernando,New York University
 Chohlas-Wood,Alex,NYPD
 Christensen,Garret,"University of California, Berkeley"
 Chunara,Rumi,New York University
-Connolly,Andrew,University of Washington
 Cornelissen,Jonathan,Data Camp
-Costa,Thiago,University of Washington
 Cranmer,Kyle,New York University
-Crosas,Merce,Harvard University
 Culich,Aaron,"University of California, Berkeley"
 Cullen,Mark,Stanford Univeristy
 Cullens,Chihoko,"University of California, Berkeley"
@@ -63,7 +59,6 @@ Franks,Alexander,University of Washington
 Freeman,Jeremy,Janelia Research Center
 Freire,Juliana,New York University
 Frey,Christian Maximilian Michael,"University of California, Berkeley"
-Friedland,Gerald,"University of California, Berkeley"
 Geiger,Stuart,"University of California, Berkeley"
 Gelman,Andrew,Columbia University
 Gill,Michael,New York University
@@ -120,7 +115,6 @@ LeCun,Yann,New York University
 Lederman,Roy,Princeton Univeristy
 Lee,Meredith,"University of California, Berkeley"
 Liu,Serena,University of Washington
-Longo,Giuseppe,"National Centre for Scientific Research, France"
 magallanes,Jose Manuel,University of Washington
 Mahoney,Michael,"University of California, Berkeley"
 Marcais,Guillaume,Carnegie Mellon University
@@ -162,17 +156,16 @@ Ponisio,Lauren,"University of California, Berkeley"
 Ram,Karthik,"University of California, Berkeley"
 Rampin,Remi,New York University
 Ratner,Alexander,Stanford University
-Rives,Alexander,New York University
 Re,Chris,Stanford University
 Reynolds,Kim,University of Texas Southwestern Medical Center
 Riemer,Kristina,University of Florida
+Rives,Alexander,New York University
 Rob,Fatland,University of Washington
 Robinson,David,Stack Overflow
 Rocklin,Matthew,Continuum Analytics
 Rokem,Ariel,University of Washington
 Rose,Ian,"University of California, Berkeley"
 Salganik,Matthew,Princeton Univeristy
-Satyanarayan,Arvind,Stanford University
 Schreiber,Jacob,University of Washington
 Scott,Camille,"University of California, Davis"
 Shen,Wade,DARPA
@@ -180,8 +173,6 @@ Shore,Elliott,Association of Research Libraries
 Siegel,Alexandra,New York University
 Silva,Claudio,New York University
 Singer,Amit,Princeton University
-Smith,Arfon,GitHub
-Smith,Nathaniel,"University of California, Berkeley"
 Smith,Allison,University of Washington
 Spergel,David,Princeton Univeristy
 Spirling,Arthur,New York University
@@ -201,7 +192,6 @@ Tanweer,Anissa,University of Washington
 Teal,Tracy,Data Carpentry
 Teytelman,Lenny,Protocols.io
 Turk,Matthew,University of Illinois
-Ushizima,Daniela,"University of California, Berkeley"
 van der Walt,Stefan,"University of California, Berkeley"
 Van Gordon,Mollie,"University of California, Berkeley"
 Varoquaux,Nelle,"University of California, Berkeley"
