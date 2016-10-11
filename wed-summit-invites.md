@@ -1,6 +1,6 @@
-**Looking for the list of Data Science Summit attendees?** It's here:
+**Looking for the list of Data Science Summit attendees? It's here:**
 
-[wed-summit-attendees.csv](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv]
+[wed-summit-attendees.csv](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv)
 
 If you plan to attend and aren't on the list above, [please email us](mailto:ddd@moore.org).
 
