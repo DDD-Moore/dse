@@ -1,4 +1,10 @@
-Last name,First name,Affiliation
+**Looking for the list of Data Science Summit attendees?** It's here:
+
+[wed-summit-attendees.csv](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv]
+
+If you plan to attend and aren't on the list above, [please email us](mailto:ddd@moore.org).
+
+<!-- Last name,First name,Affiliation
 Abdur Rehman,Nabeel,New York University
 Adams,Nick,"University of California, Berkeley"
 Allen,Gabrielle,"University of Illinois, NCSA"
@@ -146,7 +152,7 @@ LeCun,Yann,New York University
 Lederman,Roy,Princeton Univeristy
 Lee,Meredith,"University of California, Berkeley"
 Liu,Serena,University of Washington
-Longo,Giuseppe,"Centre CavaillíÂs (Rí©publique des Savoirs), CNRS, CollíÂge de France & Ecole Normale Supí©rieure, Paris "
+Longo,Giuseppe,"Centre CavaillÃ­Ã‚s (RÃ­Â©publique des Savoirs), CNRS, CollÃ­Ã‚ge de France & Ecole Normale SupÃ­Â©rieure, Paris "
 Lynch,Michael,Indiana University
 Madden,Sam,MIT
 MAGALLANES,Jose Manuel,University of Washington
@@ -258,7 +264,7 @@ Turk,Matthew,University of Illinois
 Ubois,Jeff,MacArthur Foundation
 Ushizima,Daniela,"University of California, Berkeley"
 Van Dall,Dirk,MLB Advanced Media
-van der Walt,Stí©fan,"University of California, Berkeley"
+van der Walt,StÃ­Â©fan,"University of California, Berkeley"
 Van Gordon,Mollie,"University of California, Berkeley"
 Varoquaux,Nelle,"University of California, Berkeley"
 Vo,Huy,CUNY
@@ -281,3 +287,4 @@ Zemankova,Maria,National Science Foundation
 Zheng,Tian,Columbia University
 Zichy,Kathleen Hill,New York University
 Zippory,Elad,New York University
+-->
