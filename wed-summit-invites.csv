@@ -1,10 +1,4 @@
-**Looking for the list of Data Science Summit attendees? It's here:**
-
-[wed-summit-attendees.csv](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv)
-
-If you plan to attend and aren't on the list above, [please email us](mailto:ddd@moore.org).
-
-<!-- Last name,First name,Affiliation
+Last name,First name,Affiliation
 Abdur Rehman,Nabeel,New York University
 Adams,Nick,"University of California, Berkeley"
 Allen,Gabrielle,"University of Illinois, NCSA"
@@ -287,4 +281,3 @@ Zemankova,Maria,National Science Foundation
 Zheng,Tian,Columbia University
 Zichy,Kathleen Hill,New York University
 Zippory,Elad,New York University
--->
