@@ -6,7 +6,6 @@ Repository for files and information related to the [Moore-Sloan Data Science En
 
 * [Summit family care reimbursement](https://github.com/DDD-Moore/dse/blob/master/family-care.md)
 * [MSDSE Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob/master/code-of-conduct.md)
-* [Wed 26 Oct Data Science Summit attendee list](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv)
 
 
 ---
