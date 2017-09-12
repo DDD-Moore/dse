@@ -1,4 +1,4 @@
-## 2016 Data Science Summit Meeting Code of Conduct
+## 2017 MSDSE Summit Meeting Code of Conduct
 
 All attendees at are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody. We’ve written this code of conduct not because we expect bad behavior from our community— which, in our experience, is overwhelmingly kind and civil— but because we believe a clear code of conduct is one necessary part of building a respectful community space.
 
