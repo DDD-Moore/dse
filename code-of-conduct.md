@@ -4,7 +4,7 @@ All attendees at are required to agree with the following code of conduct. Organ
 
 **Need Help?**
 
-Email us at msdse.DataScienceSummit@gmail.com, call 650-597-DATA, make an [anonymous report](https://goo.gl/forms/ExbjjjHJdQKxpSoI3), or find us at the meeting. 
+Email us at msdse.DataScienceSummit@gmail.com, make an [anonymous report](https://goo.gl/forms/ExbjjjHJdQKxpSoI3), or find us at the meeting. 
 
 ### The Quick Version
 The meeting organizers are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any meeting venue, including talks, workshops, social events, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the meeting at the discretion of the organisers.
